@@ -1,0 +1,1 @@
+const supermanPower = 'much-power';
